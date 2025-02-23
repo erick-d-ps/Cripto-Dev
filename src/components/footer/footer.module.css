@@ -1,0 +1,28 @@
+.footer{
+    margin-top: 30px;
+    border-radius: 8px;
+    width: 100%;
+    padding: 15px 0;
+    color: #fff;
+    padding: 20px 8px;
+}
+
+.footer div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer h3{
+    margin-bottom: 8px;
+}
+
+.conteudo{
+    font-size: 14PX;
+    text-align: center;
+}
+
+.conteudo a{
+    color: #30bff3;
+}
