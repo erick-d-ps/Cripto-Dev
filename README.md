@@ -86,16 +86,15 @@ Desenvolvido para investidores em criptomoedas, traders e entusiastas que precis
 
 1. Clone este repositório:
    ```bash
-   git clone git@github.com:erick-d-ps/reacFlix.git
+   https://github.com/erick-d-ps/Cripto-Dev.git
 
 2. Instale as dependências:
    ```bash
     yarn add
 
-3. Configure a API:
-   ```
-   - Crie uma conta no TMDB e obtenha sua chave de API.
-   - Substitua a chave de API no arquivo de configuração do projeto.
+3. Documentação da API:
+   
+   https://docs.coincap.io/
     
 4. Inicie o servidor de desenvolvimento:
    ```bash
