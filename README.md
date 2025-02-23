@@ -3,7 +3,7 @@
 
 ## **Objetivo**
 
-Cripto-Dev: Um aplicativo em tempo real para acompanhar o mercado de criptomoedas, desenvolvido como um projeto de estudo de programação. Inclui funcionalidades como: preço de mercado, volume de negociação, variação de preço em 24 horas e mais. 
+Cripto-Dev: Um aplicativo em tempo real para acompanhar o mercado de criptomoedas, desenvolvido como um projeto de estudo de programação. Inclui funcionalidades como: preço de mercado, volume de negociação, variação de preço em 24 horas e mais. Linke:  [Cripto-Dev](https://cripto-dev-one.vercel.app/)."
 
 ---
 ## **Público-Alvo**
