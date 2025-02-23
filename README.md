@@ -93,8 +93,9 @@ Desenvolvido para investidores em criptomoedas, traders e entusiastas que precis
     yarn add
 
 3. Documentação da API:
-   
-   https://docs.coincap.io/
+
+   - ( Link.: [Documentation API](https://docs.coincap.io/)).
+ 
     
 4. Inicie o servidor de desenvolvimento:
    ```bash
