@@ -18,7 +18,7 @@ Desenvolvido para investidores em criptomoedas, traders e entusiastas que precis
    - Logo que ficara em todas as paginas. Ao clicar na logo retorna para pagina Home  
 
 2. **Home:**
-   - Pesquise uma criptomoeda específica utilizando nossa barra de pesquisa
+   - Pesquise uma cripto moeda específica utilizando nossa barra de pesquisa
    - Acesse os dados das 10 primeiras criptomoedas mais relevantes em nossa tabela, alimentada por uma API confiável.
    - Clique no botão "Carregar mais" para exibir 10 criptomoedas adicionais.
    - Volte ao topo da página com facilidade utilizando o botão "Início".
@@ -26,7 +26,7 @@ Desenvolvido para investidores em criptomoedas, traders e entusiastas que precis
 
     
 2. **detail:**
-   - Exibe todos os detalhes da cripto moeda
+     - Exibe todos os detalhes da cripto moeda
      - Preço
      - Valor de mercado
      - Volume da moeda 
@@ -43,9 +43,9 @@ Desenvolvido para investidores em criptomoedas, traders e entusiastas que precis
    - Função de de transformar os valores das moedas em dolar  .
    - função de compactar numeros grandes para números compactos ex: 1B, 1T
    4.  **Barra de pesquisa**
-   - Barra de pesquisa de modo dinamigo levando para a página de detalhes da moeda pesquisada pelo o usuario 
+  - Barra de Pesquisa Inteligente: Encontre rapidamente a criptomoeda que você procura! Nossa barra de pesquisa dinâmica leva você diretamente à página de detalhes da moeda pesquisada, fornecendo informações precisas e atualizadas
    3.  **notfound:**
-   - Barra de Pesquisa Inteligente: Encontre rapidamente a criptomoeda que você procura! Nossa barra de pesquisa dinâmica leva você diretamente à página de detalhes da moeda pesquisada, fornecendo informações precisas e atualizadas
+  - Tratamento de Pesquisas Inválidas: Se você pesquisar por uma criptomoeda que não existe, nossa aplicação rapidamente detectará o erro e redirecionará você para a página "NotFound". Em seguida retornara automaticamente para a página home
 
 ### **Componentes**
 
